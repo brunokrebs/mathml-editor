@@ -1,0 +1,27 @@
+{
+  "name": "mathml-editor",
+  "version": "0.0.1",
+  "description": "A visual MathML editor for the web.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunokrebs/mathml-editor.git"
+  },
+  "keywords": [
+    "mathml",
+    "editor",
+    "wysiwyg"
+  ],
+  "author": "Bruno Krebs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunokrebs/mathml-editor/issues"
+  },
+  "homepage": "https://github.com/brunokrebs/mathml-editor#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-webserver": "^0.9.1",
+    "pump": "^1.0.1"
+  }
+}
